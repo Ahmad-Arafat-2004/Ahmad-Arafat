@@ -302,6 +302,7 @@ const experiences = [
 
 const projects = [
   {
+<<<<<<< HEAD
     name: "Distributed Electronic Voting System",
     description:
       "A secure multi-voting system built on blockchain and distributed systems principles, ensuring transparency, immutability, and fault tolerance. The system eliminates single points of failure and guarantees tamper-proof vote recording across a decentralized network.",
@@ -380,6 +381,8 @@ const projects = [
     deployed_link: null,
   },
   {
+=======
+>>>>>>> 20e2b83a863ca22dabc4c3b87cb9fbbe75607098
     name: "Irth Biladi Food Application",
     description:
       "Irth Biladi is a digital grocery store for authentic Middle Eastern foods. It provides essential home cooking ingredients with quick ordering and home delivery, bringing traditional pantry products into a modern online shopping experience.",
